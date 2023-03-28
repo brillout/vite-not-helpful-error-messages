@@ -4,6 +4,7 @@ import { Counter } from './Counter'
 export { Page }
 
 function Page() {
+  assert(2==3)
   return (
     <>
       <h1>Welcome</h1>
